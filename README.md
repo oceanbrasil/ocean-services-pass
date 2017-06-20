@@ -122,7 +122,8 @@ Add into app project level
 ``` Gradle
 dependecies{
     compile 'com.github.oceanbrasil:samsung-services-pass:1.2.2'
-}```
+}
+```
 
 Copyright © 2010 - 2017 SAMSUNG All rights reserved.
 
