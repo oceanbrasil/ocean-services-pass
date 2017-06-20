@@ -1,6 +1,6 @@
 # Pass SDK
 
-[![Latest Stable Version](https://img.shields.io/badge/version-1.2.2-green.svg)](http://developer.samsung.com/galaxy/edge)
+[![Latest Stable Version](https://img.shields.io/badge/version-1.2.2-green.svg)](http://developer.samsung.com/galaxy/pass)
 
 > __Note:__ 
 
@@ -122,7 +122,7 @@ Add into app project level
 ``` Gradle
 dependecies{
     compile 'com.github.oceanbrasil:samsung-services-pass:1.2.2'
-}DSA
+}```
 
 Copyright © 2010 - 2017 SAMSUNG All rights reserved.
 
