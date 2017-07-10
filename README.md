@@ -121,7 +121,7 @@ Add into app project level
 
 ``` Gradle
 dependecies{
-    compile 'com.github.oceanbrasil:samsung-services-pass:1.2.2'
+    compile 'com.github.oceanbrasil:ocean-services-pass:1.2.2'
 }
 ```
 
